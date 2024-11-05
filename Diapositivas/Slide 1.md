@@ -2,4 +2,4 @@
 
 Alumna: Hsiao Tung Ya-Yun
 
-![medio de transmisión](../Imagenes/Medios%20de%20transmisión.png)
+![medio de transmisión](../public/imagenes/Medios%20de%20transmisión.png)
